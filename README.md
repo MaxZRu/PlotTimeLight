@@ -1,3 +1,6 @@
+Проект https://github.com/9a/plotclock/blob/master/plotclock.ino был переделан и адаптирован под рисование светом
+
+
 https://www.thingiverse.com/thing:250204/files
 
 https://github.com/9a/plotclock/blob/master/plotclock.ino
